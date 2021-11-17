@@ -60,3 +60,7 @@ Microsoft Visual C++ 2019
 - [X] prints USB key info when it is *removed* from the PC;
 
 - [ ] print the USB keys already inserted in the PC.
+
+## Credits
+
+Thanks dtwk2 for your [UsbDetector gist](https://gist.github.com/dtwk2/42d3aa1d6f42b6b106228c472272b966).
